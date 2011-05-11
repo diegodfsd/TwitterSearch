@@ -1,0 +1,256 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="6B29C257-12CE-401E-A423-BD9F7D744D63/f:TwitterSearch.cs" caret="92" fromTop="3" />
+      <File id="6B29C257-12CE-401E-A423-BD9F7D744D63/f:TwitterXmlParser.cs" caret="122" fromTop="4" />
+      <File id="6B29C257-12CE-401E-A423-BD9F7D744D63/f:RenderTweet.cs" caret="93" fromTop="3" />
+      <File id="6B29C257-12CE-401E-A423-BD9F7D744D63/f:Program.cs" caret="403" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="6B29C257-12CE-401E-A423-BD9F7D744D63/f:Program.cs" caret="1615" fromTop="40" />
+      <File id="6B29C257-12CE-401E-A423-BD9F7D744D63/f:TwitterSearch.cs" caret="430" fromTop="12" />
+      <File id="6B29C257-12CE-401E-A423-BD9F7D744D63/f:TwitterSearch.cs" caret="811" fromTop="27" />
+      <File id="6B29C257-12CE-401E-A423-BD9F7D744D63/f:TwitterSearch.cs" caret="946" fromTop="33" />
+      <File id="6B29C257-12CE-401E-A423-BD9F7D744D63/f:Program.cs" caret="1391" fromTop="29" />
+      <File id="6B29C257-12CE-401E-A423-BD9F7D744D63/f:Program.cs" caret="725" fromTop="12" />
+      <File id="6B29C257-12CE-401E-A423-BD9F7D744D63/f:TwitterSearch.cs" caret="92" fromTop="3" />
+      <File id="6B29C257-12CE-401E-A423-BD9F7D744D63/f:TwitterXmlParser.cs" caret="122" fromTop="4" />
+      <File id="6B29C257-12CE-401E-A423-BD9F7D744D63/f:RenderTweet.cs" caret="93" fromTop="3" />
+      <File id="6B29C257-12CE-401E-A423-BD9F7D744D63/f:Program.cs" caret="50" fromTop="1" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="webRequest" priority="7" />
+      <Item value="WebRequest`0" priority="1" />
+      <Item value="query" priority="11" />
+      <Item value="using" priority="3" />
+      <Item value="var" priority="11" />
+      <Item value="response" priority="4" />
+      <Item value="new" priority="20" />
+      <Item value="stream" priority="3" />
+      <Item value="contentReader" priority="0" />
+      <Item value="Console`0" priority="12" />
+      <Item value="content" priority="11" />
+      <Item value="class" priority="4" />
+      <Item value="public" priority="16" />
+      <Item value="JavaScriptSerializer" priority="0" />
+      <Item value="JsonParser" priority="5" />
+      <Item value="JsonParser`0" priority="4" />
+      <Item value="JsonObject`0" priority="0" />
+      <Item value="tweets" priority="4" />
+      <Item value="foreach" priority="1" />
+      <Item value="tweet" priority="0" />
+      <Item value="const" priority="2" />
+      <Item value="expected" priority="0" />
+      <Item value="collection" priority="0" />
+      <Item value="as" priority="0" />
+      <Item value="dynamic" priority="5" />
+      <Item value="string" priority="36" />
+      <Item value="return" priority="16" />
+      <Item value="private" priority="4" />
+      <Item value="void" priority="1" />
+      <Item value="Criar`0" priority="0" />
+      <Item value="BuildUrl`0" priority="3" />
+      <Item value="Stream`0" priority="6" />
+      <Item value="Build`0" priority="0" />
+      <Item value="uri" priority="3" />
+      <Item value="method" priority="2" />
+      <Item value="contentType" priority="2" />
+      <Item value="Open`0" priority="0" />
+      <Item value="WebResponse`0" priority="0" />
+      <Item value="webResponse" priority="2" />
+      <Item value="null" priority="0" />
+      <Item value="GetContentStream`0" priority="0" />
+      <Item value="WebClient`0" priority="2" />
+      <Item value="WebClient" priority="2" />
+      <Item value="c" priority="0" />
+      <Item value="HttpClient`0" priority="2" />
+      <Item value="httpClient" priority="3" />
+      <Item value="IJsonParser`0" priority="0" />
+      <Item value="jsonParser" priority="0" />
+      <Item value="IParser`0" priority="3" />
+      <Item value="TextWriter`0" priority="0" />
+      <Item value="textWriter" priority="0" />
+      <Item value="writer" priority="1" />
+      <Item value="_httpClient" priority="1" />
+      <Item value="parser" priority="4" />
+      <Item value="_parser" priority="2" />
+      <Item value="webClient" priority="6" />
+      <Item value="address" priority="1" />
+      <Item value="Predicate" priority="0" />
+      <Item value="urlSearch" priority="0" />
+      <Item value="StreamReader`0" priority="0" />
+      <Item value="JsonParse`0" priority="1" />
+      <Item value="TwitterSearch`0" priority="5" />
+      <Item value="twitterSearch" priority="3" />
+      <Item value="_twitterSearch" priority="0" />
+      <Item value="DateTime`0" priority="0" />
+      <Item value="IList" priority="2" />
+      <Item value="Tweet`0" priority="4" />
+      <Item value="Text" priority="1" />
+      <Item value="Created" priority="1" />
+      <Item value="t" priority="3" />
+      <Item value="Convert`0" priority="1" />
+      <Item value="From" priority="0" />
+      <Item value="document" priority="2" />
+      <Item value="XDocument" priority="0" />
+      <Item value="Load`0" priority="0" />
+      <Item value="XDocument`0" priority="0" />
+      <Item value="XmlTextReader`0" priority="1" />
+      <Item value="xmlTextReader" priority="0" />
+      <Item value="XmlTextReader" priority="0" />
+      <Item value="TextReader`0" priority="0" />
+      <Item value="textReader" priority="1" />
+      <Item value="NewLineHandling`0" priority="0" />
+      <Item value="StringReader`0" priority="0" />
+      <Item value="IEnumerable" priority="0" />
+      <Item value="XElement`0" priority="0" />
+      <Item value="xElement" priority="3" />
+      <Item value="C`0" priority="0" />
+      <Item value="TwitterSearch" priority="2" />
+      <Item value="WebClientWrapper`0" priority="2" />
+      <Item value="webClientWrapper" priority="2" />
+      <Item value="WebClientWrapper" priority="0" />
+      <Item value="XMLParser`0" priority="0" />
+      <Item value="XMLParser" priority="0" />
+      <Item value="RenderTweet`0" priority="0" />
+      <Item value="RenderTweet" priority="0" />
+      <Item value="render" priority="0" />
+      <Item value="ns" priority="0" />
+      <Item value="NewsStyleUriParser`0" priority="0" />
+      <Item value="e" priority="0" />
+      <Item value="Dictionary" priority="0" />
+      <Item value="Dictionary&lt;string,string&gt;" priority="0" />
+      <Item value="_query" priority="4" />
+      <Item value="this" priority="1" />
+      <Item value="int" priority="0" />
+      <Item value="quantity" priority="0" />
+      <Item value="static" priority="2" />
+      <Item value="XmlParser`0" priority="0" />
+      <Item value="readonly" priority="0" />
+      <Item value="Query`0" priority="0" />
+      <Item value="p" priority="0" />
+      <Item value="do" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.WebRequest">
+      <Item value="Create`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebRequest">
+      <Item value="Method" priority="0" />
+      <Item value="GetRequestStream`0" priority="0" />
+      <Item value="ContentType" priority="0" />
+      <Item value="GetResponse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebResponse">
+      <Item value="GetResponseStream`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamReader">
+      <Item value="ReadToEnd`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="7" />
+      <Item value="ReadLine`0" priority="1" />
+      <Item value="Out" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@JsonParser.JsonParser">
+      <Item value="Deserialize`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="PadLeft`0" priority="0" />
+      <Item value="Substring`0" priority="0" />
+      <Item value="Length" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="2" />
+      <Item value="Empty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Stream">
+      <Item value="Null" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.TextWriter">
+      <Item value="Write`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TwitterSearchRefactored.HttpClient">
+      <Item value="Open`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TwitterSearchRefactored.IParser">
+      <Item value="Deserialize`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebClient">
+      <Item value="OpenRead`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.Stream">
+      <Item value="BeginRead`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TwitterSearchRefactored.TwitterSearch">
+      <Item value="Search`0" priority="2" />
+      <Item value="Query`0" priority="0" />
+      <Item value="Rpp`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToDateTime`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Xml.Linq.XDocument">
+      <Item value="Load`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Linq.XDocument">
+      <Item value="Root" priority="0" />
+      <Item value="Descendants`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Select`2" priority="0" />
+      <Item value="FirstOrDefault`1" priority="0" />
+      <Item value="First`1" priority="0" />
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Linq.XElement">
+      <Item value="Element`0" priority="4" />
+      <Item value="Value" priority="3" />
+      <Item value="Descendants`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TwitterSearchRefactored.Tweet">
+      <Item value="Created" priority="0" />
+      <Item value="From" priority="0" />
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TwitterSearchRefactored.RenderTweet">
+      <Item value="Write`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TwitterSearchRefactored.TwitterSearch">
+      <Item value="Search`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Key" priority="0" />
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TwitterSearchRefactored.XmlParser">
+      <Item value="Deserialize`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

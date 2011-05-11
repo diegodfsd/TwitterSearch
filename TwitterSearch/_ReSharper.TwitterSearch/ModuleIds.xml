@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="6B29C257-12CE-401E-A423-BD9F7D744D63" ModuleId="TwitterSearch" />
+  <Module PersistentId="C0E62206-7BEB-4569-AB77-86A44BDD09EC" ModuleId="TwitterSearchRefactored" />
+</Modules>

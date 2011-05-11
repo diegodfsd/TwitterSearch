@@ -1,0 +1,7 @@
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\TwitterSearch\src\TwitterSearch\TwitterSearch\bin\Debug\TwitterSearch.exe
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\TwitterSearch\src\TwitterSearch\TwitterSearch\bin\Debug\TwitterSearch.pdb
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\TwitterSearch\src\TwitterSearch\TwitterSearch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\TwitterSearch\src\TwitterSearch\TwitterSearch\obj\x86\Debug\TwitterSearch.exe
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\TwitterSearch\src\TwitterSearch\TwitterSearch\obj\x86\Debug\TwitterSearch.pdb
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\TwitterSearch\src\TwitterSearch\TwitterSearch\bin\Debug\JsonParser.dll
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\TwitterSearch\src\TwitterSearch\TwitterSearch\bin\Debug\JsonParser.pdb
